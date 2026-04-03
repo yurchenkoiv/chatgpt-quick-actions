@@ -55,6 +55,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -105,6 +129,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -155,6 +203,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -205,6 +277,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -247,6 +343,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -305,6 +425,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -347,6 +491,30 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
             }
           ]
         }
@@ -391,6 +559,30 @@
         {
           "title": "GPT-4 Turbo",
           "value": "gpt-4-turbo-preview"
+        },
+        {
+          "title": "GPT-4 Turbo (stable)",
+          "value": "gpt-4-turbo"
+        },
+        {
+          "title": "GPT-4o",
+          "value": "gpt-4o"
+        },
+        {
+          "title": "GPT-4o Mini",
+          "value": "gpt-4o-mini"
+        },
+        {
+          "title": "o1",
+          "value": "o1"
+        },
+        {
+          "title": "o1 Mini",
+          "value": "o1-mini"
+        },
+        {
+          "title": "o3 Mini",
+          "value": "o3-mini"
         }
       ],
       "required": true,
