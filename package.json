@@ -55,6 +55,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -105,6 +189,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -155,6 +323,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -205,6 +457,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -247,6 +583,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -305,6 +725,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -347,6 +851,90 @@
             {
               "title": "GPT-4 Turbo",
               "value": "gpt-4-turbo-preview"
+            },
+            {
+              "title": "GPT-4 Turbo (stable)",
+              "value": "gpt-4-turbo"
+            },
+            {
+              "title": "GPT-4o",
+              "value": "gpt-4o"
+            },
+            {
+              "title": "GPT-4o Mini",
+              "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1",
+              "value": "o1"
+            },
+            {
+              "title": "o1 Mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3 Mini",
+              "value": "o3-mini"
+            },
+            {
+              "title": "GPT-4.1",
+              "value": "gpt-4.1"
+            },
+            {
+              "title": "GPT-4.1 Mini",
+              "value": "gpt-4.1-mini"
+            },
+            {
+              "title": "GPT-4.1 Nano",
+              "value": "gpt-4.1-nano"
+            },
+            {
+              "title": "o3",
+              "value": "o3"
+            },
+            {
+              "title": "o4 Mini",
+              "value": "o4-mini"
+            },
+            {
+              "title": "GPT-5",
+              "value": "gpt-5"
+            },
+            {
+              "title": "GPT-5 Mini",
+              "value": "gpt-5-mini"
+            },
+            {
+              "title": "GPT-5 Nano",
+              "value": "gpt-5-nano"
+            },
+            {
+              "title": "GPT-5.1",
+              "value": "gpt-5.1"
+            },
+            {
+              "title": "GPT-5.1 Mini",
+              "value": "gpt-5.1-mini"
+            },
+            {
+              "title": "GPT-5.2",
+              "value": "gpt-5.2"
+            },
+            {
+              "title": "GPT-5.2 Pro",
+              "value": "gpt-5.2-pro"
+            },
+            {
+              "title": "GPT-5.4",
+              "value": "gpt-5.4"
+            },
+            {
+              "title": "GPT-5.4 Mini",
+              "value": "gpt-5.4-mini"
+            },
+            {
+              "title": "GPT-5.4 Nano",
+              "value": "gpt-5.4-nano"
             }
           ]
         }
@@ -391,6 +979,90 @@
         {
           "title": "GPT-4 Turbo",
           "value": "gpt-4-turbo-preview"
+        },
+        {
+          "title": "GPT-4 Turbo (stable)",
+          "value": "gpt-4-turbo"
+        },
+        {
+          "title": "GPT-4o",
+          "value": "gpt-4o"
+        },
+        {
+          "title": "GPT-4o Mini",
+          "value": "gpt-4o-mini"
+        },
+        {
+          "title": "o1",
+          "value": "o1"
+        },
+        {
+          "title": "o1 Mini",
+          "value": "o1-mini"
+        },
+        {
+          "title": "o3 Mini",
+          "value": "o3-mini"
+        },
+        {
+          "title": "GPT-4.1",
+          "value": "gpt-4.1"
+        },
+        {
+          "title": "GPT-4.1 Mini",
+          "value": "gpt-4.1-mini"
+        },
+        {
+          "title": "GPT-4.1 Nano",
+          "value": "gpt-4.1-nano"
+        },
+        {
+          "title": "o3",
+          "value": "o3"
+        },
+        {
+          "title": "o4 Mini",
+          "value": "o4-mini"
+        },
+        {
+          "title": "GPT-5",
+          "value": "gpt-5"
+        },
+        {
+          "title": "GPT-5 Mini",
+          "value": "gpt-5-mini"
+        },
+        {
+          "title": "GPT-5 Nano",
+          "value": "gpt-5-nano"
+        },
+        {
+          "title": "GPT-5.1",
+          "value": "gpt-5.1"
+        },
+        {
+          "title": "GPT-5.1 Mini",
+          "value": "gpt-5.1-mini"
+        },
+        {
+          "title": "GPT-5.2",
+          "value": "gpt-5.2"
+        },
+        {
+          "title": "GPT-5.2 Pro",
+          "value": "gpt-5.2-pro"
+        },
+        {
+          "title": "GPT-5.4",
+          "value": "gpt-5.4"
+        },
+        {
+          "title": "GPT-5.4 Mini",
+          "value": "gpt-5.4-mini"
+        },
+        {
+          "title": "GPT-5.4 Nano",
+          "value": "gpt-5.4-nano"
         }
       ],
       "required": true,

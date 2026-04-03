@@ -35,9 +35,19 @@ export function estimatePrice(prompt_token: number, output_token: number, model:
   } else if (model == "gpt-4") {
     price = (prompt_token * 0.03 + output_token * 0.06) / 10;
   } else if (model == "gpt-4-32k-0613") {
-    price = (prompt_token * 0.03 + output_token * 0.06) / 10;
-  } else if (model == "gpt-4-turbo-preview") {
+    price = (prompt_token * 0.06 + output_token * 0.12) / 10;
+  } else if (model == "gpt-4-turbo-preview" || model == "gpt-4-turbo") {
     price = (prompt_token * 0.01 + output_token * 0.03) / 10;
+  } else if (model == "gpt-4o") {
+    price = (prompt_token * 0.0025 + output_token * 0.01) / 10;
+  } else if (model == "gpt-4o-mini") {
+    price = (prompt_token * 0.00015 + output_token * 0.0006) / 10;
+  } else if (model == "o1") {
+    price = (prompt_token * 0.015 + output_token * 0.06) / 10;
+  } else if (model == "o1-mini") {
+    price = (prompt_token * 0.003 + output_token * 0.012) / 10;
+  } else if (model == "o3-mini") {
+    price = (prompt_token * 0.0011 + output_token * 0.0044) / 10;
   } else {
     return -1;
   }
